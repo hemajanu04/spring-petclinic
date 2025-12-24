@@ -408,4 +408,10 @@
       </build>
     </profile>
   </profiles>
+  <distributionManagement>
+    <repository>
+        <id>nexus-releases</id>
+        <url>http://<EC2-IP>:8081/repository/maven-releases/</url>
+    </repository>
+</distributionManagement>
 </project>

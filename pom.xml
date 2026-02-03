@@ -411,12 +411,12 @@
   <distributionManagement>
     <repository>
         <id>maven-releases2</id>
-        <url>http://3.109.202.204:8081/repository/maven-releases/</url>
+        <url>https://3.109.202.204:8081/repository/maven-releases/</url>
     </repository>
 
     <snapshotRepository>
         <id>maven-snapshots2</id>
-        <url>http://3.109.202.204:8081/repository/maven-snapshots/</url>
+        <url>https://3.109.202.204:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>

@@ -408,15 +408,4 @@
       </build>
     </profile>
   </profiles>
-  <distributionManagement>
-    <repository>
-        <id>maven-releases2</id>
-        <url>http://13.234.56.101:8081/repository/maven-releases/</url>
-    </repository>
-
-    <snapshotRepository>
-        <id>maven-snapshots2</id>
-        <url>http://13.234.56.101:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
-</distributionManagement>
 </project>

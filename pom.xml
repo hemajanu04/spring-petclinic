@@ -410,11 +410,11 @@
   </profiles>
   <distributionManagement>
     <repository>
-        <id>nexus-releases</id>
+        <id>nexus-releases1</id>
         <url>http://13.234.56.101:8081/repository/maven-releases1/</url>
     </repository>
     <snapshotRepository>
-        <id>nexus-snapshots</id>
+        <id>nexus-snapshots1</id>
         <url>http://13.234.56.101:8081/repository/maven-snapshots1/</url>
     </snapshotRepository>
 </distributionManagement>
